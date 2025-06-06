@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and electronics :)
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on a lot of projects
-- 📫 How to reach me : ionut_lucian.tofan@stud.etti.upb.ro
+- 📫 How to reach me :lucian.tofan.56@gmail.com
 - 😄 Pronouns: him
 
 <!---
